@@ -1,0 +1,2 @@
+> test
+ctrl + o > entrée > ctrl + x
